@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 teste 210s
+=======
+teste 200
+>>>>>>> parent of a73fa2c (revisao)
